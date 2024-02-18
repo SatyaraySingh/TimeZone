@@ -31,7 +31,7 @@ Future improvements if given more time
 ==========================================================
 1.  Implement CQRS pattern to separate command 
 
-2.  Include unit Project with Unit ttest cases.
+2.  Include Test Project with Unit test cases.
 	
 3.  Make use of Interfaces.
 
